@@ -1,0 +1,4 @@
+cliente1|$2y$10$RftWyVQI0ufjWHPVA50sGO090b02BHbUG3vQDMts9epBXFjzUoih2|cliente
+cliente2|$2y$10$E8EKYxBmrbZC3bhaNM03.OxYGs/O/z8eesq5MZ90CnHOPjLrDb3mG|cliente
+repartidor1|$2y$10$/uhMawV6nMQXDhgMC47D/ewPXlw6E4f0GAGt86WaWyYwVT1HFcsHq|repartidor
+admin1|$2y$10$DK.TA1mvI9pK4Eo6aNzi7.en60mCQ5WXSfPaLzVlVtXl70Qu25xZ.|admin
