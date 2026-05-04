@@ -1,4 +1,1 @@
-1|cliente1|Calle Frankfurt Nº 18|Calle Frankfurt Nº 20|Paquete promorcional de Arkanihgt Endfield|envio_69f87c9286b05.png|En espera
-2|cliente1|Tienda de Amazon|Calle Yes-I-am Nº 12|Paquete de suma fragilidad|envio_69f87d20289f4.jpg|En reparto
-3|cliente2|Uber|Mi casa|Mi coche nuevo, metido en una caja|envio_69f8816449371.png|En espera
-4|cliente1|Calle Frankfurt Nº 18|Calle Yes-I-am Nº 12|Barco todo terreno, útil cuando en El Ejido llueve mucho|envio_69f88e61c8bee.png|En reparto
+
