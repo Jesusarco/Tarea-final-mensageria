@@ -42,7 +42,6 @@
 
     /**
      * Guarda el array completo de envíos en la base de datos.
-     * (Reemplaza todo el contenido de la tabla envios)
      */
     function guardarEnvios(array $envios): void {
         $pdo = getDB();

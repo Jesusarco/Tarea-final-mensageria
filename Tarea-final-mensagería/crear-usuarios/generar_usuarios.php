@@ -1,5 +1,5 @@
 <?php
-    require_once "funciones.inc.php";
+    require_once __DIR__ . "/../controladores/funciones.inc.php";
 
     $usuarios = [
         ["cliente1",   password_hash("cliente1", PASSWORD_DEFAULT),   "cliente"],
