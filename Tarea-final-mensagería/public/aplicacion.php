@@ -30,7 +30,6 @@ $rol     = $_SESSION['rol'];
         <span>Usuario: <?= htmlspecialchars($usuario) ?> | Conectado desde <?= $hora ?></span>
         <nav>
             <a href="aplicacion.php">Inicio</a>
-            <a href="informacion.php">Información</a>
             <a href="preferencias.php">Preferencias</a>
             <a href="logout.php">Cerrar sesión</a>
         </nav>
@@ -43,7 +42,6 @@ $rol     = $_SESSION['rol'];
         <section>
             <h3>Menú principal</h3>
             <ul>
-                <li><a href="informacion.php">¿Cómo funciona la aplicación? (Información)</a></li>
                 <li><a href="preferencias.php">Cambiar color de fondo (Preferencias)</a></li>
                 <li>
                     <?php if ($rol === 'cliente'): ?>
